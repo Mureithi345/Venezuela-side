@@ -10,7 +10,7 @@ body {
 
 .slideshow-container {
     width: 1879px; /* Fixed width */
-    height: 1482px; /* Fixed height */
+    height: 2000px; /* Fixed height */
     overflow: hidden;
     border: 0px solid white;
     position: relative;
